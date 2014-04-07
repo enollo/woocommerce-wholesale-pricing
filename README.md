@@ -1,0 +1,2 @@
+woocommerce-wholesale-pricing
+=============================
